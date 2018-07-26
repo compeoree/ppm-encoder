@@ -32,6 +32,7 @@ Fuse Settings
   - These settings may not work in all cases, depending on your board.
   - VERIFY BEFORE CHANGING FUSES ON YOUR MCU, OR YOU MAY BRICK IT! (especially the low fuse)
   - An online avr fuse calculator may help: http://www.engbedded.com/fusecalc
+  - Alternate online fuse calculator: http://eleccelerator.com/fusecalc/fusecalc.php?chip=atmega328p
   - Low fuse has the same functions for the mega 328 and mega 168
   - High fuse sets sets the bootsize on 328 and the bodlevel in 168
   - Extended fuse sets the bodlevel only on 328 but it sets the bootsize on 168i
